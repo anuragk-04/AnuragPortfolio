@@ -1,5 +1,34 @@
-🌐 Personal Portfolio Website
+# REACT PORTFOLIO 🚀
+This is a simple React portfolio website built using React, styled-components, and other modern web development tools. It showcases my skills, projects, and contact information.
 
-This is my personal portfolio, built to showcase my projects, skills, achievements, and experience in software development and competitive programming. It serves as a central hub for my professional identity, highlighting both my technical abilities and my journey as a developer.
 
-Live Link: https://anuragmnnit-portfolio.netlify.app/
+
+## Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/daniel-ndeto/react-portfolio.git
+    cd react-portfolio 📁
+    ```
+
+2.  **Install dependencies:**
+    
+    ```bash
+
+    # Using yarn 🧶
+    yarn install 
+
+    ```
+
+## Usage
+
+1.  **Start the application:**
+    
+    ```bash
+    # yarn 🧶
+    yarn start 🚀
+    ```
+
+## Give it a star ⭐
+
+thank you for checking out my portfolio website. 🙏
